@@ -22,7 +22,7 @@ BEGIN
     Read (basket)
 
 
-// Parcours de la phrase caractère par caractère
+// Parcours caractère par caractère
     FOR char TO phrase DO
         longueur = longueur + 1
 
